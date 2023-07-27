@@ -1,0 +1,2 @@
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2.3\TPN2.3.Test\obj\Debug\TPN2.3.Test.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2.3\TPN2.3.Test\obj\Debug\TPN2.3.Test.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPN2.3", "TPN2.3\TPN2.3.csproj", "{2A2298F4-B65E-46D9-95B7-7BF8933DA633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPN2.3.Test", "TPN2.3.Test\TPN2.3.Test.csproj", "{F8855318-27F9-464C-8EC3-12A87D160281}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2298F4-B65E-46D9-95B7-7BF8933DA633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2298F4-B65E-46D9-95B7-7BF8933DA633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2298F4-B65E-46D9-95B7-7BF8933DA633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2298F4-B65E-46D9-95B7-7BF8933DA633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8855318-27F9-464C-8EC3-12A87D160281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8855318-27F9-464C-8EC3-12A87D160281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8855318-27F9-464C-8EC3-12A87D160281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8855318-27F9-464C-8EC3-12A87D160281}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4E50528-B8F3-4A75-B3A7-CDD7B36112A3}
+	EndGlobalSection
+EndGlobal

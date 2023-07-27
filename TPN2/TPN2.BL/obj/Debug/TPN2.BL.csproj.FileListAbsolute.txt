@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2\TPN2.BL\bin\Debug\TPN2.BL.dll
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2\TPN2.BL\bin\Debug\TPN2.BL.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2\TPN2.BL\obj\Debug\TPN2.BL.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2\TPN2.BL\obj\Debug\TPN2.BL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2\TPN2.BL\obj\Debug\TPN2.BL.dll
+C:\Users\Usuario\OneDrive\Escritorio\Unsta\backEnd\tps\ACME\TPN2\TPN2.BL\obj\Debug\TPN2.BL.pdb
